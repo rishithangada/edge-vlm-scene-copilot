@@ -1,0 +1,6 @@
+torch==2.5.1
+transformers==4.49.0
+opencv-python==4.10.0.84
+accelerate==1.4.0
+pillow==11.1.0
+# Qwen2-VL uses the model's own processor; qwen-vl-utils optional for advanced prompts.
